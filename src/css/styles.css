@@ -75,3 +75,8 @@
   line-height: 1.33;
 }
 
+.search-form{
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
